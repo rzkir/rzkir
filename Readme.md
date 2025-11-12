@@ -106,43 +106,26 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/rzkir/REPO-1">
-        <img src="https://via.placeholder.com/600x280/0f172a/ffffff?text=Proyek+1" alt="Proyek 1" />
+      <a href="https://github.com/rzkir/portofolio">
+        <img alt="portofolio" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=portofolio&theme=tokyonight&hide_border=true" />
       </a>
-      <br/>
-      <b>Nama Proyek 1</b>
-      <br/>
-      <sub>Nilai/impact singkat</sub>
-      <br/>
-      <img alt="TS" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-      <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs&logoColor=white" />
-      <img alt="Postgres" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
     </td>
     <td>
-      <a href="https://github.com/rzkir/REPO-2">
-        <img src="https://via.placeholder.com/600x280/111827/ffffff?text=Proyek+2" alt="Proyek 2" />
+      <a href="https://github.com/rzkir/rizverse">
+        <img alt="rizverse" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=rizverse&theme=tokyonight&hide_border=true" />
       </a>
-      <br/>
-      <b>Nama Proyek 2</b>
-      <br/>
-      <sub>Stack/arsitektur inti</sub>
-      <br/>
-      <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-      <img alt="Node" src="https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=nodedotjs&logoColor=white" />
-      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/rzkir/donasi-jakarta-mengabdi">
+        <img alt="donasi-jakarta-mengabdi" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=donasi-jakarta-mengabdi&theme=tokyonight&hide_border=true" />
+      </a>
     </td>
     <td>
-      <a href="https://github.com/rzkir/REPO-3">
-        <img src="https://via.placeholder.com/600x280/0b1020/ffffff?text=Proyek+3" alt="Proyek 3" />
+      <a href="https://github.com/rzkir/arsitektur-mobile">
+        <img alt="arsitektur-mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=arsitektur-mobile&theme=tokyonight&hide_border=true" />
       </a>
-      <br/>
-      <b>Nama Proyek 3</b>
-      <br/>
-      <sub>Masalah yang diselesaikan</sub>
-      <br/>
-      <img alt="Express" src="https://img.shields.io/badge/Express-000?style=flat&logo=express&logoColor=white" />
-      <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
     </td>
   </tr>
 </table>
