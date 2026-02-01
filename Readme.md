@@ -33,15 +33,15 @@
 #### Frontend
 
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vuedotjs&logoColor=white" />
+  <img alt="Astro" src="https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
   
 </p>
 
@@ -85,20 +85,20 @@
 ### 📈 Statistik
 
 <p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rzkir&show_icons=true&theme=tokyonight&hide_title=true&rank_icon=github" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkir&layout=compact&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=rzkir&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkir&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p>
-  <img height="150" src="https://streak-stats.demolab.com?user=rzkir&theme=tokyonight&hide_border=true" alt="streak" />
+  <img height="150" src="https://streak-stats.demolab.com/?user=rzkir&theme=tokyo-night&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rzkir&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rzkir&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub trophies" />
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzkir&theme=tokyo-night&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rzkir&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
 </p>
 
 ### 🚀 Sorotan Proyek
@@ -106,13 +106,13 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/rzkir/portofolio">
-        <img alt="portofolio" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=portofolio&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/spacedigitalia/portofolio">
+        <img alt="portofolio" src="https://github-readme-stats.vercel.app/api/pin/?username=spacedigitalia&repo=portofolio&theme=tokyonight&hide_border=true" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/rzkir/rizverse">
-        <img alt="rizverse" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=rizverse&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/spacedigitalia/rizverse">
+        <img alt="rizverse" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=spacedigitalia&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -125,6 +125,18 @@
     <td>
       <a href="https://github.com/rzkir/arsitektur-mobile">
         <img alt="arsitektur-mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=arsitektur-mobile&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/spacedigitalia/pt-samson-sure">
+        <img alt="pt-samson-sure" src="https://github-readme-stats.vercel.app/api/pin/?username=spacedigitalia&repo=pt-samson-sure&theme=tokyonight&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/harmonyrumahku/harmony-rumah-ku">
+        <img alt="harmony-rumah-ku" src="https://github-readme-stats.vercel.app/api/pin/?username=harmonyrumahku&repo=harmony-rumah-ku&theme=tokyonight&hide_border=true" />
       </a>
     </td>
   </tr>
@@ -142,13 +154,13 @@
 ### 📬 Kontak
 
 <p>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hallo@rizkiramadhan.web.id">
     <img alt="Email" src="https://img.shields.io/badge/Email-hello@rizki-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-handle">
+  <a href="https://www.linkedin.com/in/rizki-ramadhan12">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://your-domain.com">
+  <a href="http://rizkiramadhan.web.id">
     <img alt="Website" src="https://img.shields.io/badge/Website-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
