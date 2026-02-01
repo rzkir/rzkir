@@ -105,39 +105,63 @@
 
 <table>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/spacedigitalia/portofolio">
-        <img alt="portofolio" src="assets/portofolio.png" />
+        <img alt="portofolio" src="assets/portofolio.png" width="100%" />
       </a>
+      <br />
+      <strong>Portofolio</strong><br />
+      <sub>Website portofolio — clean code & antarmuka yang nyaman.</sub><br />
+      <a href="http://rizkiramadhan.web.id" target="_blank">🔗 Preview</a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/rzkir/rizki-ai">
-        <img alt="rizki-ai" src="assets/rizki-ai.png" />
+        <img alt="rizki-ai" src="assets/rizki-ai.png" width="100%" />
       </a>
+      <br />
+      <strong>Rizki AI</strong><br />
+      <sub>Transformasi ide dengan AI — antarmuka modern & fitur cerdas.</sub><br />
+      <a href="https://rizkiramadhan.web.id" target="_blank">🔗 Preview</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/rzkir/donasi-jakarta-mengabdi">
-        <img alt="donasi-jakarta-mengabdi" src="assets/donasi-jakarta-mengabdi.png" />
+        <img alt="donasi-jakarta-mengabdi" src="assets/donasi-jakarta-mengabdi.png" width="100%" />
       </a>
+      <br />
+      <strong>Donasi Jakarta Mengabdi</strong><br />
+      <sub>Platform donasi untuk program Jakarta Mengabdi.</sub><br />
+      <a href="https://www.kakasaku.jakartamengabdi.com" target="_blank">🔗 Preview</a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/spacedigitalia/jelajah-kode">
-             <img alt="donasi-jakarta-mengabdi" src="assets/kodera.png" />
+        <img alt="jelajah-kode" src="assets/kodera.png" width="100%" />
       </a>
+      <br />
+      <strong>Jelajah Kode</strong><br />
+      <sub>Temukan template favorit & jelajah koleksi kode.</sub><br />
+      <a href="https://www.kodera.biz.id" target="_blank">🔗 Preview</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <a href="https://github.com/spacedigitalia/pt-samson-sure">
-             <img alt="donasi-jakarta-mengabdi" src="assets/samsonsurvey.jpg" />
+        <img alt="samsonsurvey" src="assets/samsonsurvey.jpg" width="100%" />
       </a>
+      <br />
+      <strong>PT. Samson Survey</strong><br />
+      <sub>Website perusahaan — riset, uji, dan evaluasi.</sub><br />
+      <a href="https://samsonsure.co.id" target="_blank">🔗 Preview</a>
     </td>
-    <td>
+    <td width="50%">
       <a href="https://github.com/harmonyrumahku/harmony-rumah-ku">
-        <img alt="harmony-rumah-ku" src="https://github-readme-stats.vercel.app/api/pin/?username=harmonyrumahku&repo=harmony-rumah-ku&theme=tokyonight&hide_border=true" />
+        <img alt="harmony-rumah-ku" src="assets/harmoy.png" width="100%" />
       </a>
+      <br />
+      <strong>Harmony Rumah Ku</strong><br />
+      <sub>Proyek kolaborasi — solusi perumahan yang harmonis.</sub><br />
+      <a href="https://demo-harmonyrumahku.vercel.app" target="_blank">🔗 Preview</a>
     </td>
   </tr>
 </table>
