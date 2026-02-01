@@ -107,31 +107,31 @@
   <tr>
     <td>
       <a href="https://github.com/spacedigitalia/portofolio">
-        <img alt="portofolio" src="https://github-readme-stats.vercel.app/api/pin/?username=spacedigitalia&repo=portofolio&theme=tokyonight&hide_border=true" />
+        <img alt="portofolio" src="assets/portofolio.png" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/spacedigitalia/rizverse">
-        <img alt="rizverse" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=spacedigitalia&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/rzkir/rizki-ai">
+        <img alt="rizki-ai" src="assets/rizki-ai.png" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/rzkir/donasi-jakarta-mengabdi">
-        <img alt="donasi-jakarta-mengabdi" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=donasi-jakarta-mengabdi&theme=tokyonight&hide_border=true" />
+        <img alt="donasi-jakarta-mengabdi" src="assets/donasi-jakarta-mengabdi.png" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/rzkir/arsitektur-mobile">
-        <img alt="arsitektur-mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=rzkir&repo=arsitektur-mobile&theme=tokyonight&hide_border=true" />
+      <a href="https://github.com/spacedigitalia/jelajah-kode">
+             <img alt="donasi-jakarta-mengabdi" src="assets/kodera.png" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/spacedigitalia/pt-samson-sure">
-        <img alt="pt-samson-sure" src="https://github-readme-stats.vercel.app/api/pin/?username=spacedigitalia&repo=pt-samson-sure&theme=tokyonight&hide_border=true" />
+             <img alt="donasi-jakarta-mengabdi" src="assets/samsonsurvey.jpg" />
       </a>
     </td>
     <td>
