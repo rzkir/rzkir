@@ -46,10 +46,6 @@ export const rizki = {
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,tailwind,nodejs,express,php,laravel,postgres,supabase,firebase,rust,docker,git,github,vscode,postman&perline=9"/>
 </p>
 
-<div align="center">
-  React Native • Rust
-</div>
-
 ## GitHub
 
 <p align="center">
