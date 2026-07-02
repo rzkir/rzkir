@@ -1,17 +1,28 @@
 <p align="center">
-<img src="./assets/banner.svg" width="100%">
+  <img src="./assets/2.svg" width="100%">
 </p>
 
 <div align="center">
+  <h1>Rizki Ramadhan</h1>
+  <p>
+    Fullstack Developer from Indonesia — building web products, developer tools, and AI-powered experiences.
+  </p>
 
-## Rizki Ramadhan
+  <p>
+    <a href="https://github.com/rzkir">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+    </a>
+    <a href="https://linkedin.com/in/rizki-ramadhan12">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    </a>
+    <a href="mailto:hello@rizkiramadhan.web.id">
+      <img alt="Email" src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail"/>
+    </a>
+  </p>
 
-Fullstack Developer from Indonesia — building web products, developer tools, and AI-powered experiences.
-
-<a href="https://github.com/rzkir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com/in/rizki-ramadhan12"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:hello@rizkiramadhan.web.id"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail"/></a>
-
+  <p>
+    <img src="./assets/IamProgrammerEnglish.png" width="100%" alt="Banner" />
+  </p>
 </div>
 
 ---
@@ -49,8 +60,8 @@ export const rizki = {
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rzkir&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkir&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=rzkir&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rzkir&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
@@ -59,55 +70,37 @@ export const rizki = {
 
 ## Featured Projects
 
-<div>
+- **Rizki AI** — AI platform for building and shipping AI-powered experiences.  
+  - **Live**: [rizkiramadhan.web.id](https://rizkiramadhan.web.id)  
+  - <details>
+    <summary><b>Preview</b></summary>
+    <br />
+    <img src="./assets/rizki-ai.png" width="100%" alt="Rizki AI preview" />
+    </details>
 
-### Rizki AI
+- **Kodera** — Template marketplace for fast project kickstarts.  
+  - **Live**: [kodera.biz.id](https://kodera.biz.id)  
+  - <details>
+    <summary><b>Preview</b></summary>
+    <br />
+    <img src="./assets/kodera.png" width="100%" alt="Kodera preview" />
+    </details>
 
-AI platform for building and shipping AI-powered experiences.
+- **Jakarta Mengabdi** — Donation platform to support community initiatives.  
+  - **Live**: [kakasaku.jakartamengabdi.com](https://kakasaku.jakartamengabdi.com)  
+  - <details>
+    <summary><b>Preview</b></summary>
+    <br />
+    <img src="./assets/donasi-jakarta-mengabdi.png" width="100%" alt="Jakarta Mengabdi preview" />
+    </details>
 
-<p>
-  <a href="https://rizkiramadhan.web.id"><b>Live</b></a>
-  <br />
-  <img src="./assets/rizki-ai.png" width="100%" />
-</p>
-
----
-
-### Kodera
-
-Template marketplace for fast project kickstarts.
-
-<p>
-  <a href="https://kodera.biz.id"><b>Live</b></a>
-  <br />
-  <img src="./assets/kodera.png" width="100%" />
-</p>
-
----
-
-### Jakarta Mengabdi
-
-Donation platform to support community initiatives.
-
-<p>
-  <a href="https://kakasaku.jakartamengabdi.com"><b>Live</b></a>
-  <br />
-  <img src="./assets/donasi-jakarta-mengabdi.png" width="100%" />
-</p>
-
----
-
-### Portfolio
-
-Personal website & selected works.
-
-<p>
-  <a href="https://rizkiramadhan.biz.id/"><b>Live</b></a>
-  <br />
-  <img src="./assets/portofolio.png" width="100%" />
-</p>
-
-</div>
+- **Portfolio** — Personal website & selected works.  
+  - **Live**: [rizkiramadhan.biz.id](https://rizkiramadhan.biz.id/)  
+  - <details>
+    <summary><b>Preview</b></summary>
+    <br />
+    <img src="./assets/portofolio.png" width="100%" alt="Portfolio preview" />
+    </details>
 
 ## Now
 
@@ -120,10 +113,6 @@ Personal website & selected works.
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-<div align="center">
-
-### Thanks for visiting
-
-Building beautiful digital experiences.
-
-</div>
+<p align="center">
+  <img src="./assets/1.svg" width="100%">
+</p>
