@@ -60,8 +60,8 @@ export const rizki = {
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=rzkir&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rzkir&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rzkir&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkir&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
