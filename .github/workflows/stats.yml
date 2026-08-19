@@ -16,28 +16,20 @@ jobs:
       - name: GitHub Stats
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: rzkir
-          show_icons: "true"
-          theme: transparent
-          hide_border: "true"
-          include_all_commits: "true"
-          count_private: "true"
-          output_path: assets/stats.svg
+          card: stats
+          options: "username=rzkir&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"
+          path: assets/stats.svg
 
       - name: Top Languages
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          username: rzkir
-          card_type: top-langs
-          layout: compact
-          theme: transparent
-          hide_border: "true"
-          langs_count: "8"
-          output_path: assets/top-langs.svg
+          card: top-langs
+          options: "username=rzkir&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+          path: assets/top-langs.svg
 
       - name: Commit & Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add assets/stats.svg assets/top-langs.svg
-          git diff --cached --quiet || git commit -m "chore: update github stats" && git push
+          git diff --cached --quiet || (git commit -m "chore: update github stats" && git push)
