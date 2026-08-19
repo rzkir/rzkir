@@ -21,6 +21,13 @@
   </p>
 
   <p>
+    <img alt="Followers" src="https://img.shields.io/github/followers/rzkir?style=flat-square&color=236ad3"/>
+    <img alt="Stars" src="https://img.shields.io/github/stars/rzkir?style=flat-square&color=236ad3&affiliations=OWNER"/>
+    <img alt="Repos" src="https://img.shields.io/badge/dynamic/json?color=236ad3&style=flat-square&label=public%20repos&query=public_repos&url=https://api.github.com/users/rzkir"/>
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rzkir&style=flat-square&color=236ad3"/>
+  </p>
+
+  <p>
     <img src="./assets/IamProgrammerEnglish.png" width="100%" alt="Banner" />
   </p>
 </div>
