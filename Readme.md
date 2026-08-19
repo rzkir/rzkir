@@ -60,12 +60,12 @@ export const rizki = {
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rzkir&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rzkir&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+  <img height="165" src="./assets/stats.svg"/>
+  <img height="165" src="./assets/top-langs.svg"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=rzkir&theme=transparent&hide_border=true"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=rzkir&theme=transparent&hide_border=true"/>
 </p>
 
 ## Featured Projects
