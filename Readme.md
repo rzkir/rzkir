@@ -38,7 +38,7 @@
 
 - **Role**: Fullstack Developer
 - **Focus**: SaaS, AI, performance, clean architecture
-- **Stack**: React / Next.js / Vue / Nuxt / React Native, Node.js, Laravel, PostgreSQL, Supabase, Rust
+- **Stack**: React / Next.js / Vue / Nuxt / React Native, Node.js, NestJS, Hono, Laravel, Python, PostgreSQL, Supabase, Rust
 
 <details>
 <summary><b>Quick snapshot</b></summary>
@@ -49,7 +49,7 @@ export const rizki = {
   location: "Indonesia",
   interests: ["AI", "Developer Tools", "SaaS"],
   frontend: ["React", "Next.js", "Vue", "Nuxt"],
-  backend: ["Node.js", "Laravel", "PHP"],
+  backend: ["Node.js", "NestJS", "Hono", "Laravel", "PHP", "Python"],
   data: ["PostgreSQL", "Supabase", "Firebase"],
   mobile: ["React Native"],
   systems: ["Rust"],
@@ -61,18 +61,18 @@ export const rizki = {
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,ts,tailwind,nodejs,express,php,laravel,postgres,supabase,firebase,rust,docker,git,github,vscode,postman&perline=9"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,vue,nuxt,ts,tailwind,nodejs,express,nestjs,hono,php,laravel,python,postgres,supabase,firebase,rust,docker,git,github,vscode,postman&perline=11"/>
 </p>
 
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rzkir&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rzkir&layout=compact&theme=transparent&hide_border=true&langs_count=8"/>
+  <img height="165" src="./assets/stats.svg" alt="GitHub Stats"/>
+  <img height="165" src="./assets/top-langs.svg" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=rzkir&theme=transparent&hide_border=true"/>
+  <img height="165" src="./assets/streak.svg" alt="GitHub Streak"/>
 </p>
 
 ## Featured Projects
